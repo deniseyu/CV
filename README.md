@@ -1,5 +1,4 @@
 # Denise Yu [.com](http://www.deniseyu.com)
-==
 
 I am a full-stack web developer and designer who likes building applications with clear user stories, encapsulated code, and comprehensive testing. From September 15, 2014 to December 5, 2014, I completed a 12-week web development course at [Makers Academy](http://www.makersacademy.com). I am currently seeking a junior developer role in London, New York, San Francisco, Boulder, or Denver.
 
@@ -16,7 +15,7 @@ My non-coding interests include policy design, behavioral sciences, parliamentar
 
 ## Technical Skills
 
-### Methodology
+#### Methodology
 * Test-Driven Development (TDD)
 * Behavior-Driven Development (BDD)
 * Agile Methodology & Best Practices
@@ -24,17 +23,17 @@ My non-coding interests include policy design, behavioral sciences, parliamentar
 * Pair Programming
 * Version Control with Git
 
-### Languages
+#### Languages
 * Ruby
 * Javascript
 
-### Frameworks
+#### Frameworks
 * Sinatra
 * Rails
 * ExpressJS on NodeJS
 * AngularJS
 
-### Test Suites
+#### Test Suites
 * RSpec
 * Cucumber
 * Capybara
@@ -45,7 +44,7 @@ My non-coding interests include policy design, behavioral sciences, parliamentar
 * Protractor
 * Karma
 
-### Front-End Skills
+#### Front-End Skills
 * HTML5
 * CSS3
 * jQuery
@@ -54,12 +53,12 @@ My non-coding interests include policy design, behavioral sciences, parliamentar
 * Heroku
 * ERB & EJS
 
-### Design
+#### Design
 * Gimp
 * Adobe Photoshop
 * iMovie
 
-### Databases & ORMs
+#### Databases & ORMs
 * PostgresQL
 * Datamapper
 * ActiveRecord
@@ -79,4 +78,6 @@ My non-coding interests include policy design, behavioral sciences, parliamentar
 * Legal Assistant, Hurwitz Stampur & Roth, New York, NY (2012-2013)
 * Environmental Registry Intern, Markit, New York, NY (2011)
 * Program Coordinator, Let's Get Ready, Boston, MA (2010)
+
+Complete CV [here](http://www.deniseyu.com/cv)
 
