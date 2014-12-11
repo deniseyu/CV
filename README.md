@@ -1,6 +1,6 @@
 # Denise Yu [.com](http://www.deniseyu.com)
 
-![winter is coming](https://raw.github.com/deniseyu/CV/master/photo.jpg)
+![winter is coming](https://raw.github.com/deniseyu/CV/master/photo.jpg =300x300)
 
 I am a full-stack web developer and designer who likes building applications with intuitive user stories, encapsulated code, and comprehensive testing. From September 15, 2014 to December 5, 2014, I completed a 12-week web development course at [Makers Academy](http://www.makersacademy.com). I am currently seeking a junior developer role in London, New York, San Francisco, Boulder, or Denver.
 
