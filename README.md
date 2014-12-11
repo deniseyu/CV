@@ -64,13 +64,27 @@ My non-coding interests include policy design, behavioral sciences, parliamentar
 * ActiveRecord
 * MongoDB
 
+## Non-Technical Skills
+
+#### Public Speaking
+For the last ten years, I have been actively involved in American and British-style parliamentary debate, Model United Nations, Mock Trial. I am experienced in public speaking, extemporaneous debating, speechwriting, and copywriting.
+
+#### Teaching/Coaching
+I have extensive experience teaching students from the ages of 10-15. I worked at the Johns Hopkins Center for Talented Youth for two years, coordinated a non-profit college preparation program with Let's Get Ready, and coached debate for The School at Columbia University as well as Clapton Girls' Academy through DebateMate UK. I also have some familiarity with curriculum design and education policy.
+
+#### Management/Administration
+I managed the day-to-day operations of a 3-partner law firm in Manhattan from 2012-2013 and ran the Columbia University Parliamentary Debate Society from 2010-2012. I am experienced with event planning, budget creation, logistics, and administration.
+
+#### Emergency Medicine
+I am a certified first-responder in the State of New York. I completed 180 hours of training with Emergency Care Programs in Bronx, NY in March 2013. I am trained in CPR and Basic Life Support.
+
 ## Academic Background
 
-* Columbia University, New York, NY (2009-2012)
-  * BA, Economics & Philosophy
+#### Columbia University, New York, NY (2009-2012)
+BA, Economics & Philosophy
 
-* The London School of Economics & Political Science, London (2013-2014)
-  * MSc, Social Policy & Planning
+#### The London School of Economics & Political Science, London (2013-2014)
+MSc, Social Policy & Planning
 
 ## Work Experience
 
