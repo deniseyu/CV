@@ -1,5 +1,7 @@
 # Denise Yu [.com](http://www.deniseyu.com)
 
+![winter is coming](https://raw.github.com/deniseyu/CV/master/photo.jpg)
+
 I am a full-stack web developer and designer who likes building applications with clear user stories, encapsulated code, and comprehensive testing. From September 15, 2014 to December 5, 2014, I completed a 12-week web development course at [Makers Academy](http://www.makersacademy.com). I am currently seeking a junior developer role in London, New York, San Francisco, Boulder, or Denver.
 
 My non-coding interests include policy design, behavioral sciences, parliamentary debating, and contemplating the economics of the zombie apocalypse. My academic background is social policy, philosophy, and economics. In my spare time, I like to take photographs, play the piano, watch Wes Anderson movies, and create spontaneous art projects.
@@ -80,11 +82,11 @@ I am a certified first-responder in the State of New York. I completed 180 hours
 
 ## Academic Background
 
-#### Columbia University, New York, NY (2009-2012)
-BA, Economics & Philosophy
-
 #### The London School of Economics & Political Science, London (2013-2014)
 MSc, Social Policy & Planning
+
+#### Columbia University, New York, NY (2009-2012)
+BA, Economics & Philosophy
 
 ## Work Experience
 
