@@ -14,6 +14,7 @@ My non-coding interests include policy design, behavioral sciences, parliamentar
 | [Instacat](https://github.com/deniseyu/instagram-clone) | [Instacat on Heroku](http://instacat-app.herokuapp.com) | Clone of Instagram, built in Rails during Week 9. A photo-sharing platform for feline aficionados. |
 | [Rock, Paper, Scissors, Lizard, Spock](https://github.com/deniseyu/RockPaperScissorsJS) | [RPSLS on Heroku](http://cute-rock-paper-scissors-js.herokuapp.com/) | Week 6 foray into Javascript and jQuery. Play Rock, Paper, Scissors, Lizard, Spock against a computer. Hover over the title words for rules. |
 | [Chitter](https://github.com/deniseyu/octochat) | [Chitter on Heroku](http://totoro-chitter.herokuapp.com) | Week 4 challenge to replicate Twitter functionality with Ruby and Sinatra. Users can post to a public feed and comment on other posts. |
+| [TextSupport](https://github.com/Wix-sock/node-server) | TBA on Wix App Store | Second-place winning entry for Wix Hackathon (Nov 7-9, 2014). A tool to help small business owners respond instantly to customer questions from a mobile browser. Built in NodeJS with socket.io, Twilio, Mailgun, and Wix SDK for the Wix App Store. |
 
 ## Technical Skills
 
