@@ -1,7 +1,5 @@
 # Denise Yu [.com](http://www.deniseyu.com)
 
-<img src="https://raw.github.com/deniseyu/CV/master/photo.jpg" alt="winter is coming" style="width: 200px;"/>
-
 I am a full-stack web developer and designer who likes building applications with intuitive user stories, encapsulated code, and comprehensive testing. From September 15, 2014 to December 5, 2014, I completed a 12-week web development course at [Makers Academy](http://www.makersacademy.com). I am currently seeking a junior developer role in London, New York, San Francisco, Boulder, or Denver.
 
 My non-coding interests include policy design, behavioral sciences, parliamentary debating, and contemplating the economics of the zombie apocalypse. My academic background is social policy, philosophy, and economics. In my spare time, I like to take photographs, play the piano, and create spontaneous art projects.
