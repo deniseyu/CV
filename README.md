@@ -7,7 +7,7 @@ My non-coding interests include policy design, behavioral sciences, parliamentar
 
 #### [Third Space Learning] (https://thirdspacelearning.com)
 
-###### Full-stack Junior Ruby-on-Rails Developer
+###### Full-stack Junior Ruby-on-Rails Development Intern
 
 I work on building features, maintaining, refactoring, and testing the main application, written in Ruby-on-Rails.
 
