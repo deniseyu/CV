@@ -3,6 +3,30 @@
 I am a full-stack web developer and designer who likes building applications with intuitive user stories, encapsulated code, and comprehensive testing. From September 15, 2014 to December 5, 2014, I completed a 12-week web development course at [Makers Academy](http://www.makersacademy.com). I am currently seeking a junior developer role in London, New York, San Francisco, Boulder, or Denver.
 
 My non-coding interests include policy design, behavioral sciences, parliamentary debating, and contemplating the economics of the zombie apocalypse. My academic background is social policy, philosophy, and economics. In my spare time, I like to take photographs, play the piano, and create spontaneous art projects.
+## Software Development Work Experience
+
+#### [Third Space Learning] (https://thirdspacelearning.com)
+
+###### Full-stack Junior Ruby-on-Rails Developer
+
+I work on building features, maintaining, refactoring, and testing the main application, written in Ruby-on-Rails.
+
+Key responsibilities:
+
+* Working closely with Product Manager and customer teams to define and deliver user stories
+* Reviewing code each time a merge request is submitted to development branch
+* Architecting and implementing features across the stack
+* Participating in sprint planning to scope, define, and create time estimates for tasks
+* Writing model, controller, and features tests to retroactively cover legacy code
+* Helping to research new technologies and frameworks for upcoming feature builds
+
+Key skills:
+
+* Agile work processes, including use of user stories, kan-ban, code review
+* Front-end development: Vanilla JS, jQuery, AJAX, HTML5, SCSS/CSS, responsive design, mockups in Gimp
+* Back-end development: MySQL, Rails, AWS
+* Version control: Git, Gitlab, Git flow, Capistrano
+* Testing: RSpec, Capybara
 
 ## Selected Portfolio
 
